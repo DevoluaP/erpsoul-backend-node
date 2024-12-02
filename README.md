@@ -85,7 +85,3 @@ git push origin minha-nova-feature
 ```
 
 4. Abra um Pull Request no GitHub.
-
-## Licença
-
-Este projeto é licenciado sob a licença MIT.
